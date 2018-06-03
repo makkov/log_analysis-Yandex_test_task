@@ -1,4 +1,4 @@
-# log-analysis-Yandex-test-task
+# log_analysis-Yandex_test_task
 test task for Yandex school of managers
 
 Задание выполнено в рамках заочного отбора в Школу менеджеров Яндекса. Анализ проводился с использованием Python.<p> 
